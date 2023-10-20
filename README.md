@@ -2,7 +2,7 @@
 
 OBJECTIVE
 
-The client - Guyana Telephone and Telegraph (GTT) - launched an LTE service to the public and they wanted to understand the penetration of LTE subscribers in several areas, analyze the growth pattern of this customer base and gather other useful insights. 
+The company launched an LTE service to the public and they wanted to understand the penetration of LTE subscribers in several areas, analyze the growth pattern of this customer base and gather other useful insights. 
 <br></br>
 
 MY ROLE
