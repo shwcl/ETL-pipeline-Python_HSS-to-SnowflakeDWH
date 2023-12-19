@@ -18,10 +18,8 @@ To build an ETL pipeline to load data of LTE subscribers stored on an Home Subsc
 <br></br>
 
 ## Pentaho Data Integration ETL Job
-
-### testing
-hello world
-
+![pentaho_ETL_image1](https://github.com/shwcl/ETL-pipeline-Python_HSS-to-SnowflakeDWH/assets/52106536/ee581452-8664-401f-b4c6-c8b45d4083ab)
+<br></br>
 
 ## Development Process
 Steps:
