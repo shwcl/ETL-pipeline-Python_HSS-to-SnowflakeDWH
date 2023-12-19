@@ -1,8 +1,14 @@
-# ETL-pipeline-Python_HSS-to-SnowflakeDWH
+# Data Engineering Project
+## Project Description
+This project implemented an ETL pipeline to load 120000+ rows of data of from an Home Subscriber Server (HSS) stored in semi-structred format to a Snowflake data warehouse.
 
-OBJECTIVE
+## Background
+The company launched an LTE service to the public and the Analytics Team wanted to understand the penetration of LTE subscribers in several areas, analyze the growth pattern of this customer base and gather other useful insights. 
+After discussing requirements with the Analytics Team, it was destablished that the required data was stored on a Home Subscriber Server (HSS) in log files in semi-structed format. So we proposed to develop a data pipeline to parse and load the data to the Snowflake data warehouse
 
-The company launched an LTE service to the public and they wanted to understand the penetration of LTE subscribers in several areas, analyze the growth pattern of this customer base and gather other useful insights. 
+
+## Objective
+To build an ETL pipeline to load data of LTE subscribers stored on an Home Subscriber Server (HSS) to the Snowflake data warehouse.
 <br></br>
 
 MY ROLE
