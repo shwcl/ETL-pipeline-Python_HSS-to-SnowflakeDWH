@@ -1,6 +1,6 @@
 # Data Engineering Project
 ## Project Description
-This project implemented an ETL pipeline to load 120000+ rows of data of from an Home Subscriber Server (HSS) stored in semi-structred format to a Snowflake data warehouse.
+This project implemented an ETL pipeline to load 120000+ rows of data from an Home Subscriber Server (HSS) stored in semi-structured format to a Snowflake data warehouse.
 <br></br>
 
 ## Background
