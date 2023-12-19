@@ -32,7 +32,7 @@ Steps:
 <br></br>
 
 
-##Tools Used
+## Tools Used
 Python, SQL, Pentaho Data Integration and Snowflake DWH
 <br></br>
 
