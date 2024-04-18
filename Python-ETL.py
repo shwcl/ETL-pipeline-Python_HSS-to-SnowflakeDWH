@@ -29,7 +29,6 @@ writerObj = open('c:\\sample\\HSS' + time_stamp + '.txt','w')
 writerObj.writelines(data)
 logging.info('Dump file generated from switch successfully')
 
-
 # Checking that dump file exists
 try:
     logging.info('Verifying dump file exists.. ')
@@ -39,8 +38,6 @@ try:
 except IOError as e:
     logging.error('Dump file not found. ' + str(e))
     sys.exit()
-
-
 
 # parse data in txt file and output to csv
 re_Object = re.compile('HSS-EsmMsisdn: 592' + r'\d\d\d\d\d\d\d')
@@ -55,7 +52,6 @@ def find_pattern(text, patterns):
             mo = pattern.search(text)
             return mo.group()
     return None
-
 
 file_path = 'c:\\sample\\HSS' + time_stamp + '.txt'
 input_file = open(file_path)
@@ -73,7 +69,6 @@ for row in input_file:
             temp_list = []
 
 input_file.close()
-
 
 # load data in csv to staging table in Snowflake DWH
 conn = snow.connect(user='******', password='******', account='******')
