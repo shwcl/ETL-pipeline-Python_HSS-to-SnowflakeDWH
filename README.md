@@ -40,6 +40,6 @@ Python, SQL, Pentaho Data Integration and Snowflake DWH
 <br></br>
 
 ## Impact
-The reporting done by the client using analysis-ready data delivered by the data pipeline I developed led to or significantly contributed to the company re-introducing the specific service to the public a couple years later with the aim of expanding its customer base.
+The data produced by the data pipeline was utilized by the client, which led to or significantly contributed to the company re-introducing the specific service to the public a couple years later with the aim of expanding its customer base.
 
  
